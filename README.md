@@ -93,8 +93,7 @@ GitHub Stats
 
 Contact
 - GitHub: https://github.com/KhoaDang2011  
-- Email: your.email@example.com <!-- replace with preferred contact -->
-- LinkedIn: https://www.linkedin.com/in/your-linkedin <!-- replace -->
+- Email: vuive6331@gmail.com<!-- replace with preferred contact -->
 
 ---
 
